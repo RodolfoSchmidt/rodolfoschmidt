@@ -1,4 +1,4 @@
-<h2 align="center">Hello everyone, my name is Rodolfo and I am a Lawyer currently studying a degree in Computer Science and web programming from Argentina.</h2>
+<h2 align="center">Hello everyone, my name is Rodolfo. I am a lawyer and I am currently studying a Bachelor's degree in Computer Science. I am self-taught in software development and web development. I am happy to be here and learn from you and with you.</h2>
 
 ###
 
