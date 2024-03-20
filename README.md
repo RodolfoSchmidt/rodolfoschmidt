@@ -22,14 +22,16 @@
 </div>
 
 ###
-<div align="left">
-  <a href="https://rodo.dev/" target="_blank">
-    <img src="https://www.flaticon.es/iconos-gratis/desarrollo-web" height="35" alt="web logo"  />
-  </a>
-</div>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/rodolfo-schmidt/" target="_blank">
+  <p>visit my page</p>
+  <a href="https://rodo.dev/" target="_blank" rel="noreferrer">
+    <img src="https://imgur.com/dtVVFwl" height="35" alt="web logo"  />
+  </a>
+</div>
+<div align="left">
+  <a href="https://www.linkedin.com/in/rodolfo-schmidt/" target="_blank"
+            rel="noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
