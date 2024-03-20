@@ -26,7 +26,7 @@
 <div align="left">
   <p>visit my page</p>
   <a href="https://rodo.dev/" target="_blank" rel="noreferrer">
-    <img src="https://imgur.com/dtVVFwl" height="35" alt="web logo"  />
+    <img src=[Imgur](https://imgur.com/dtVVFwl) height="35" alt="web logo"  />
   </a>
 </div>
 <div align="left">
