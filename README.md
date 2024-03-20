@@ -1,4 +1,4 @@
-<h2 align="center">Hello everyone, my name is Rodolfo. I am a lawyer and I am currently studying a Bachelor's degree in Computer Science. I am self-taught in software development and web development. I am happy to be here and learn from you and with you.</h2>
+<h2 align="center">Hey everyone! They call me Rodo. I'm a web developer, lawyer, and a total tech enthusiast.</h2>
 
 ###
 
@@ -22,9 +22,14 @@
 </div>
 
 ###
+<div align="left">
+  <a href="https://rodo.dev/" target="_blank">
+    <img src="https://www.flaticon.es/iconos-gratis/desarrollo-web" height="35" alt="web logo"  />
+  </a>
+</div>
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/rodolfo-schmidt-81b033231/" target="_blank">
+  <a href="https://www.linkedin.com/in/rodolfo-schmidt/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
