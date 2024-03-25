@@ -1,5 +1,5 @@
 <h1 align="center">Hey everyone! They call me Rodo.</h1>
-<h3 align="center">A frontend developer, lawyer, and a total tech enthusiast.</h3>
+<h3 align="center">A web developer, lawyer, and a total tech enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodolfoschmidt&label=Profile%20views&color=0e75b6&style=flat" alt="rodolfoschmidt" /> </p>
 
